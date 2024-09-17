@@ -1,0 +1,255 @@
+body{
+    margin:auto;
+padding: auto;
+}
+header{
+background-image: url("bb.png");
+background-size: cover;
+height: 707px;
+}
+div{
+    padding: 15px;
+    margin-left: 30px;
+    text-align: right;
+}
+div a{
+font-size: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+   
+   color: #fdfff4; 
+   font-family: sans-serif;
+   font-weight: bold;  
+}
+div a:hover{
+    background-color: #150e60;
+    padding: 10px;
+    border-radius: 10px;
+}
+.h1{
+    margin: auto;
+    font-size: 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #fdfff4; 
+    margin: 20px;
+    margin-left: 150px;
+    margin-bottom: auto;
+    position: relative;
+    top: 20px;
+}
+.h2{
+    margin: auto;
+    font-size: 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #fdfff4; 
+    margin-left: 500px;
+}
+.p1{
+    border: 3px #fdfff4 solid;
+   width: 170px;
+  text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 15px;
+   border-radius: 30px;
+   color: #fdfff4; 
+   font-family: sans-serif;
+   font-weight: bold;
+   position: relative;
+   top: 50px;
+}
+.p1:hover{
+    background-color: #150e60;
+}
+h1{
+    padding-top: 40px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    text-align: center;
+    font-family: sans-serif;
+    color:rgb(5, 5, 109);
+    font-weight:bolder;
+    font-size: 50px; 
+}
+.section0{
+    display: flex;
+    width: 70%;
+   margin-left: auto;
+   margin-right: auto;
+}
+.section1{
+    background-color: #cfe6ff;
+}
+.div1{
+    flex-basis: 33.333%;
+    text-align: center;
+}
+.div2{
+    flex-basis: 33.333%;
+    text-align: center;
+}
+.div3{
+    flex-basis: 33.333%;
+    text-align: center;
+}
+.div1 img{
+    border-radius: 50px;
+}
+.div2 img{
+    border-radius: 50px;
+}
+.div3 img{
+    border-radius: 50px;
+}
+.div1 h3{
+    font-family:  sans-serif;
+    font-weight:bolder;
+   
+    color:rgb(5, 5, 109);  
+}
+.div2 h3{
+    font-family: sans-serif;
+    color:rgb(5, 5, 109);
+    font-weight:bolder;
+}
+.div3 h3{
+    font-family:  sans-serif;
+    color:rgb(5, 5, 109);
+    font-weight:bolder;
+}
+.section2{
+    background-color:#473dc6 ;
+    height:inherit;
+    width: 100%;
+    display: block;
+}
+.section2 h2{
+    margin-top: auto;
+    padding-top: 80px;
+   font-size: 80px;
+   font-family:  sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+    text-align: center;
+}
+.enternal_section{
+    display: flex;
+    width: 70%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 50px;  
+}
+.enternal_section p{
+    color: #ffffff; 
+    font-family:  sans-serif;
+}
+.div11{
+    flex-basis: 33.333%;
+    text-align: center;
+}
+.div22{
+    flex-basis: 33.333%;
+    text-align: center;
+}
+.div33{
+    flex-basis: 33.333%;
+    text-align: center;
+}
+.div11 span{
+    font-size: 40px;
+    font-weight: bold;
+}
+.div22 span{
+    font-size: 40px;
+    font-weight: bold;
+}
+.div33 span{
+    font-size: 40px;
+    font-weight: bold;
+}
+.div11 .pp{
+    margin-top: 60px;
+}
+.div22 .pp{
+    margin-top: 60px;
+}
+.div33 .pp{
+    margin-top: 60px;
+}
+.div11 .hr1{
+    opacity: 0.5;
+    filter: drop-shadow(0 0 1px #ccc);
+}
+.div22 .hr2{
+    opacity: 1;
+    filter: drop-shadow(0 0 1px #ccc);
+}
+.div33 .hr3{
+    opacity: 1;
+    filter: drop-shadow(0 0 1px #ccc);
+}
+.section3{
+    background-color: #150e60;
+    width: 100%;
+    display: flex;
+}
+.section5{
+    display: flex;
+    padding: 50px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section5 .dd{
+    flex-basis: 70%; 
+}
+.section5 .div_2{
+    flex-basis: 80%; 
+}
+.section5 div img{
+display: flex;
+    border-radius: 20px;
+    width: 350px;
+    height: 350px;
+    margin-left: 60px;
+}
+.section5 .div_2{
+    width: 60px;
+}
+.section5 .div_2 .ppp{
+    color: #cfe6ff;
+    font-size: 40px;
+    font-family:  sans-serif;
+    font-weight: bold;
+    display: flex;
+    margin-top: auto; 
+}
+.section5 .div_2 .pppp{
+    display: flex;
+    text-align: left;
+    color: #cfe6ff;
+    font-family:  sans-serif;
+}
+.section5 .div_2 .ppppp{
+    border: 3px solid  #cfe6ff;
+    border-radius: 60px;
+    display: flex;
+    width: 130px;
+    padding: 15px;
+   color: #cfe6ff ;
+   padding-left: 35px;
+   font-size: 20px;
+   font-family:  sans-serif;
+   font-weight: bold;
+  margin-top: 30px;
+}
+.section5 .div_2 .ppppp:hover{
+        background-color: blue;
+}
+
+
