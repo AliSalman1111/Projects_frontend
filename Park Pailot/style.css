@@ -1,0 +1,176 @@
+  body{
+    margin: auto;
+  } 
+   
+   .nav a {
+display: inline-block;
+margin-right: 20px;
+padding: 15px;
+font-size: 20px;
+text-decoration: none;
+color: black;
+
+}
+.nav{
+   
+    height: 60px;
+    background-color: rgba(247, 247, 247, 1);
+}
+
+.div1{
+    margin-top: auto;
+    height: 500px;
+    background-image: url('OIP.jpg');
+   background-repeat: no-repeat;
+ background-size:cover ;
+ 
+}
+.div1 h2{
+    margin-top: auto;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 70px;
+    color:rgb(255, 52, 52);
+}
+.div2{
+    width: 50%;
+    float: left;
+
+}
+.div2 img{
+
+    width: 500px;
+}
+.div2 h3{
+    text-align: center;
+    font-size: 30px;
+}
+.div2 p{
+    text-align: center;
+    font-size: 30px;
+}
+.div3{
+padding-top: 160px;
+}
+.ss{
+    clear: both;
+}
+.div4{
+    width: 32%;
+    float: left;
+margin: 10px;
+}
+.div4 img{
+    width: 100%;
+    height: 400px;
+
+}
+.div4 h3{
+    text-align: center;
+    font-size: 30px;
+    color: green;
+}
+
+.div10 h2{
+   
+        margin-top: auto;
+        text-align: center;
+        padding-top: 300px;
+          font-size: 70px;
+        color:white;
+    
+}
+.div10{
+   
+    margin-top: auto;
+    height: 659px;
+    background-image: url('360_F_113270995_v0RgIm4UIV0VFJw30vM4ZeptxaeHZOuK.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.div11{
+    margin-top: 10px;
+    width: 50%;
+    float: left;
+
+}
+.div11 img{
+    width: 80%;
+    height: 500px;
+}
+.div11 h3{
+    padding-left: 10px;
+    padding-top: 130px;
+    font-size: 30px;
+}
+.div11 p{
+    padding-left: 30px;
+    font-size: 25px;
+}
+.div12{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.div12 p{
+    font-size: 30px;
+}
+.div12 h3{
+    margin-top: 30px;
+    font-size: 30px;
+   
+}
+.div13{
+text-align: center;
+    width: 32%;
+    float: left;
+    margin: 10px;
+}
+.div13 h3{
+
+font-size: 40px;
+}
+.div13{
+    font-size: 30px;
+}
+.div{
+    margin-bottom: 30px;
+}
+.div14 a{
+    margin-bottom: 30px;
+
+    border: 1px solid black;
+    display: inline-block;
+text-decoration: none;
+font-size: 30px;
+margin-left: auto;
+margin-right: auto;
+margin-left: 700px;
+background-color: green;
+color: white;
+padding: 10px;
+border-radius: 30px;
+}
+form{
+
+  
+   padding: 40px;
+  
+}
+form label{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+form input{
+    display: block;
+    margin-left: 60px;
+}
+.form{
+    background-color:rgba(0, 0, 0, 0.203);
+    border: 1px solid black;
+    display: flex;
+    width: 335px;
+    padding: 11px;
+    margin: auto;
+    margin-top: 20px;
+}
